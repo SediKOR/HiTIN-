@@ -1,4 +1,8 @@
-# HiTIN: Hierarchy-aware Tree Isomorphism Network for Hierarchical Text Classification
+# HiTIN Practice
+
+## Original github : https://github.com/Rooooyy/HiTIN.git
+
+## HiTIN: Hierarchy-aware Tree Isomorphism Network for Hierarchical Text Classification
 
 Official implementation for ACL 2023 accepted paper "HiTIN: Hierarchy-aware Tree Isomorphism Network for Hierarchical Text Classification" . [[arXiv](https://arxiv.org/abs/2305.15182)][[pdf](https://arxiv.org/pdf/2305.15182.pdf)][[bilibili](https://www.bilibili.com/video/BV1vL411i7uY/?share_source=copy_web&vd_source=a9cc6ff9a8cf3c92bf2375da5b56a007)]
 
